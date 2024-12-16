@@ -6,10 +6,10 @@ Este projeto busca filtrar informações acadêmicas de alunos usando técnicas 
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
-- [Isadora](https://github.com/IsadoraAlcantara)
-- [Luiz](https://github.com/LuizNunes06)
-- [Giulia](https://github.com/GiuliaNobre)
 - [Cauã](https://github.com/Caussz)
+- [Giulia](https://github.com/GiuliaNobre)
+- [Isadora](https://github.com/IsadoraAlcantara)
+- [Luiz](https://github.com/LuizNunes06).
 
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
