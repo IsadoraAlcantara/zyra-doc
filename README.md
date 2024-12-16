@@ -111,9 +111,6 @@ O Zyra será uma solução eficiente, moderna e acessível, desenvolvida com foc
 
 
 
-![Identificando a fronteira do sistema](img/dcu_identificando_a_fronteira_do_sistema.png "Identificando a fronteira do sistema")
-
----
+![Diagrama Caso De Uso](img/DiagramaUML.png "Diagrama")
 
 
- -->
