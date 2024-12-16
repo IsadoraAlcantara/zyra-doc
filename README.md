@@ -57,10 +57,7 @@ O Zyra será uma solução eficiente, moderna e acessível, desenvolvida com foc
 
 # 4. Modelagem de Dados
 
-
-
-
-
+![Modelagem](img/banco-zyra.png "Modelagem")
 
 # 5. Regras de negócio
 
@@ -108,8 +105,6 @@ O Zyra será uma solução eficiente, moderna e acessível, desenvolvida com foc
 - **R.N.F. 07-  Tecnologias de Apoio:** Será utilizado o conjunto de tecnologias Cheerio, Puppeteer, Pino, Cors e Helmet para o processamento, segurança e log de dados.
 
 # 8. Diagrama de Caso de Uso
-
-
 
 ![Diagrama Caso De Uso](img/DiagramaUML.png "Diagrama")
 
