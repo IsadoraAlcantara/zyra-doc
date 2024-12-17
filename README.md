@@ -14,7 +14,7 @@ Equipe:
 Links do projeto:
 -   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
 -   Backend: [Repositório](https://github.com/Caussz/PI_MicroService_NodeJs) e [Publicação](https://pi-backend.herokuapp.com/)
--   Frontend: [Repositório](https://github.com/Caussz/PI-FrontEnd-VueJs) e [Publicação](zyra-pi.vercel.app)
+-   Frontend: [Repositório](https://github.com/Caussz/PI-FrontEnd-VueJs) e [Publicação](https://zyra-pi.vercel.app)
 
 # 1. Desenvolvimento
 
