@@ -12,7 +12,6 @@ Equipe:
 - [Luiz](https://github.com/LuizNunes06).
 
 Links do projeto:
-(*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
 -   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
 -   Backend: [Repositório](https://github.com/Caussz/PI_MicroService_NodeJs) e [Publicação](https://pi-backend.herokuapp.com/)
 -   Frontend: [Repositório](https://github.com/Caussz/PI-FrontEnd-VueJs) e [Publicação](https://pi-frontend.herokuapp.com/)
